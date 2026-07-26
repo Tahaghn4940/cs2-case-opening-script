@@ -1,99 +1,51 @@
-# CS2 Oteviraci Simulator v2026 - Game Script Utility 2026
+# 📦 cs2-case-opening-script - Simulate game cases without spending money
 
-> **A browser-based Counter-Strike 2 case opening simulator.** This HTML experience is organized around a homepage, a case page, a collection page, and keyboard-based interaction.
+[![](https://img.shields.io/badge/Download_Simulator-Blue?style=for-the-badge)](https://github.com/Tahaghn4940/cs2-case-opening-script)
 
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-web-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/noahedwardsxhv6079/cs2-case-opening-script?style=flat-square)](https://github.com/noahedwardsxhv6079/cs2-case-opening-script)
+This project provides a simple way to simulate opening Counter-Strike 2 cases. It runs in your web browser. You do not need to install complex software or manage server files. The tool offers a realistic look at case odds and item drops using a clean, keyboard-driven interface.
 
----
+## 🛠️ System Requirements
 
-<p align="center">
-  <a href="https://noahedwardsxhv6079.github.io/cs2-case-opening-script/">
-    <img src="https://img.shields.io/badge/Download-CS2%20Oteviraci%20Simulator-brightgreen?style=for-the-badge" alt="Download CS2 Oteviraci Simulator">
-  </a>
-</p>
+You need a modern web browser to run this simulation. We recommend using one of the following:
 
-> **[Direct Download - CS2 Oteviraci Simulator](https://noahedwardsxhv6079.github.io/cs2-case-opening-script/)**
+* Google Chrome
+* Mozilla Firefox
+* Microsoft Edge
+* Brave
 
----
+Your computer requires a stable internet connection for the initial load. You do not need a high-end graphics card or a fast computer. The script consumes very little memory and works on most standard office or home laptops.
 
-[Download Latest Build](https://noahedwardsxhv6079.github.io/cs2-case-opening-script/)
+## 📥 Getting the Simulator
 
----
+You can access the software directly through the official repository page. Follow these steps to prepare the tool:
 
-## What it is
+1. Visit the main project page at https://github.com/Tahaghn4940/cs2-case-opening-script.
+2. Look for the green button labeled "Code" near the top right of the file list.
+3. Click "Download ZIP" from the menu.
+4. Save the file to your computer.
+5. Right-click the downloaded folder and choose "Extract All".
+6. Open the folder once the files finish extracting.
 
-CS2 Oteviraci Simulator is a web-first case opening project built in HTML and styled as a live demo experience. It is centered on the feel of opening cases and moving between the project's primary pages.
+## 🚀 How to Run the Tool
 
-Rather than acting as a game integration, the project is designed as a standalone simulator flow. The structure includes a homepage, a case page, and a collection page, with keyboard input available for navigation and interaction. Current updates appear to emphasize the simulator flow and the overall web presentation.
+After you extract the files onto your hard drive, you can start the application:
 
-## Core Features
+1. Locate the file named `index.html` inside the folder.
+2. Right-click the file and select "Open with".
+3. Choose your preferred web browser from the list.
+4. The simulation loads in a new tab.
 
-- Counter-Strike-themed case opening simulator
-- HTML implementation for use in a browser
-- Live demo style layout and interaction model
-- Keyboard controls for hands-on use
-- Homepage as the main entry point
-- Separate case page for opening cases
-- Collection page for viewing items or outcomes
-- Lightweight web structure that is easy to deploy
+If you prefer, you can also drag the `index.html` file into an open browser window. The interface appears immediately. You can now interact with the menus using your mouse or keyboard.
 
-## Getting Started
+## ⌨️ Using the Interface
 
-1. Download or clone the repository files.
-2. Open the HTML entry file in a browser, or place the project on a web host.
-3. Use the homepage to begin moving through the simulator.
-4. Open cases from the case page and inspect results in the collection page.
+The simulator includes a homepage, a dedicated case selection page, and a collection viewer. 
 
-Example:
+### Homepage
+The homepage acts as your dashboard. It shows your current balance and provides quick links to the cases. Click the buttons on the screen to navigate through the menus. 
 
-- `index.html` -> homepage
-- `case.html` -> case opening area
-- `collection.html` -> collection view
+### Case Page
+Select a case to begin opening items. This page displays the odds for every item within that case. Click the "Open" button or press the spacebar to trigger the animation. The script calculates the outcome based on the logic defined in the game files.
 
-## Configuration
-
-| Setting | Description |
-| --- | --- |
-| Keyboard controls | Enables input for simulator interaction |
-| Homepage | Main landing page for the project |
-| Case page | Opens the case simulator view |
-| Collection page | Shows collected or generated results |
-| Browser mode | Runs as an HTML web project |
-| Live demo | Provides an immediate demo-style experience |
-
-## Compatibility
-
-The project is meant for web browsers and is implemented with HTML. Its theme is based on Counter-Strike and Counter-Strike 2 case-simulator content, but it is not a game client plugin or an in-game mod.
-
-Known limitations:
-- Requires a browser environment
-- Depends on the project's HTML structure and linked assets
-- Functionality may vary if files are moved without updating paths
-
-## FAQ
-
-### How do I run it?
-Open the HTML project in a browser or host it on a static web server.
-
-### Does it support Counter-Strike 2?
-The project is themed around Counter-Strike and Counter-Strike 2, with case-simulator style content for the web.
-
-### Can I customize the pages?
-Yes. The structure includes separate homepage, case page, and collection page areas that can be adjusted in the HTML files.
-
-### Are keyboard controls included?
-Yes. Keyboard controls are listed as part of the project features.
-
-### What should I do if assets do not load?
-Check file paths, folder names, and whether all HTML files and related resources are present in the same project structure.
-
-### Where are updates likely to appear?
-Updates are most likely to affect the simulator flow, page structure, and browser presentation.
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+### Collection Page
+View every skin you obtain during your session on the collection page. This page tracks your progress and lists items by rarity. You can filter
